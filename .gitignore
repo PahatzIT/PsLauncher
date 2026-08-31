@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Build / Publish
+publish/
+
+# Debug files
+*.pdb
+
+# Operating system files
+Thumbs.db
+.DS_Store
