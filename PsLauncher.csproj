@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <AssemblyTitle>A lightweight Windows launcher for running PowerShell scripts silently with argument forwarding and exit code passthrough.</AssemblyTitle>
+    <Product>PowerShell Launcher</Product> 
+    <Company>PahatzIT</Company> 
+    <Authors>Nico Pahatz</Authors>
+
+    <Version>26.09.0</Version> 
+    <AssemblyVersion>26.09.0.0</AssemblyVersion> 
+    <FileVersion>26.09.0.0</FileVersion>
+
+    <Description>A lightweight Windows launcher for running PowerShell scripts silently with argument forwarding and exit code passthrough.</Description>
+    <Copyright>Nico Pahatz @ PahatzIT</Copyright>
+    <ApplicationIcon>PsLauncher.ico</ApplicationIcon>
+
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+  </PropertyGroup>
+
+</Project>
